@@ -1,6 +1,6 @@
                                                     Questões sobre Java
 
-##1.## O que significa a sigla AWT em Java?
+1.O que significa a sigla AWT em Java?
   Abstract Window Toolkit
 
 3. Qual classe do AWT representa uma janela principal?
