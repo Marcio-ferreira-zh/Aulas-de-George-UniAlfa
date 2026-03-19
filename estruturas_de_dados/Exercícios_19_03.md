@@ -7,13 +7,7 @@
 
 Uma pilha (Stack) segue qual princípio?
 
-A) FIFO
-
 B) **LIFO**
-
-C) FILO
-
-D) LILO
 
 ✅ **Resposta correta: B**
 
