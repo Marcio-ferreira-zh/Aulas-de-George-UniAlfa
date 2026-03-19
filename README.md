@@ -16,4 +16,4 @@
 </p>
 
 <!-- teste -->
-<p align="center"> <img src="https://media.giphy.com/media/l1KtXmfi3EnjM5zpK/giphy.gif" width="400"/> </p> <p align="center"> ⚔️ Escolha seu caminho: <b>Lado Jedi</b> ou <b>Lado Sith</b> ⚔️ </p>****
+<p align="center"> <img src="https://img.shields.io/badge/Jedi%20Path-Discipline-FFD700?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/Sith%20Path-Power-FF0000?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/Training-Active-000000?style=for-the-badge&logoColor=FFD700"/> </p>
