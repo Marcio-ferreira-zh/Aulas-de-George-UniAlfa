@@ -10,7 +10,9 @@
 </p>
 
 <!--icons-->
-<p align="center"> <img src="https://skillicons.dev/icons?i=github,git,vscode" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,linux&theme=dark" />
+</p>
 
 
 
