@@ -11,7 +11,9 @@
 
 <!--icons-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,linux&theme=dark" />
+  <img src="https://img.shields.io/badge/Jedi_Mode-Active-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Training-Logic-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Mission-In_Progress-000000?style=for-the-badge&logo=git&logoColor=FFD700"/>
 </p>
 
 
