@@ -20,13 +20,7 @@ A pilha segue o princípio **LIFO (Last In, First Out)**, ou seja, **o último e
 
 O princípio **LIFO** significa:
 
-A) Primeiro que entra é o primeiro que sai
-
 B) **Último que entra é o primeiro que sai**
-
-C) Elementos são removidos aleatoriamente
-
-D) A pilha remove elementos do meio
 
 ✅ **Resposta correta: B**
 
@@ -39,13 +33,7 @@ No modelo LIFO, o elemento inserido mais recentemente na pilha é o primeiro a s
 
 Qual classe da biblioteca padrão Java implementa uma pilha?
 
-A) Queue
-
 B) **Stack**
-
-C) ArrayList
-
-D) HashMap
 
 ✅ **Resposta correta: B**
 
@@ -60,11 +48,6 @@ A classe `Stack` pertence a qual pacote?
 
 A) **java.util**
 
-B) java.io
-
-C) java.lang
-
-D) java.net
 
 ✅ **Resposta correta: A**
 
@@ -77,13 +60,8 @@ A classe `Stack` está localizada no pacote **java.util**, que contém diversas 
 
 Qual método adiciona um elemento na pilha?
 
-A) insert()
-
-B) add()
 
 C) **push()**
-
-D) enqueue()
 
 ✅ **Resposta correta: C**
 
@@ -98,11 +76,6 @@ Qual método remove o elemento do topo da pilha?
 
 A) **pop()**
 
-B) removeTop()
-
-C) delete()
-
-D) poll()
 
 ✅ **Resposta correta: A**
 
@@ -115,13 +88,9 @@ O método `pop()` remove e retorna **o elemento que está no topo da pilha**.
 
 Qual método retorna o elemento do topo sem removê-lo?
 
-A) get()
 
 B) **peek()**
 
-C) pop()
-
-D) top()
 
 ✅ **Resposta correta: B**
 
@@ -134,13 +103,8 @@ O método `peek()` permite **visualizar o elemento do topo da pilha sem removê-
 
 Qual método verifica se a pilha está vazia?
 
-A) empty()
-
 B) **isEmpty()**
 
-C) size()
-
-D) check()
 
 ✅ **Resposta correta: B**
 
@@ -153,13 +117,7 @@ O método `isEmpty()` retorna **true se a pilha estiver vazia** e **false caso c
 
 Qual exceção ocorre ao tentar remover elemento de uma pilha vazia?
 
-A) IOException
-
-B) StackOverflowError
-
 C) **EmptyStackException**
-
-D) NullPointerException
 
 ✅ **Resposta correta: C**
 
@@ -172,13 +130,9 @@ Se `pop()` for chamado em uma pilha vazia, o Java lança a exceção **EmptyStac
 
 Qual estrutura é utilizada internamente pela classe `Stack`?
 
-A) LinkedList
 
 B) **Vector**
 
-C) ArrayList
-
-D) TreeMap
 
 ✅ **Resposta correta: B**
 
@@ -191,13 +145,9 @@ A classe `Stack` herda da classe **Vector**, que utiliza uma estrutura baseada e
 
 A pilha é frequentemente usada em:
 
-A) Ordenação de arquivos
 
 B) **Controle de chamadas de métodos**
 
-C) Comunicação de rede
-
-D) Banco de dados
 
 ✅ **Resposta correta: B**
 
@@ -210,13 +160,10 @@ A pilha é utilizada no **controle de chamadas de funções e métodos**, forman
 
 Em Java, o uso da pilha está associado ao conceito de:
 
-A) Heap Memory
 
 B) **Stack Memory**
 
-C) Cache Memory
 
-D) Virtual Memory
 
 ✅ **Resposta correta: B**
 
@@ -229,12 +176,6 @@ A **Stack Memory** é usada para armazenar chamadas de métodos e variáveis loc
 
 Qual alternativa representa corretamente uma pilha?
 
-A)
-
-```
-1 2 3 4
-```
-
 B)
 
 ```
@@ -246,17 +187,6 @@ Topo
 Base
 ```
 
-C)
-
-```
-1 → 2 → 3 → 4
-```
-
-D)
-
-```
-4 → 3 → 2 → 1
-```
 
 ✅ **Resposta correta: B**
 
@@ -270,9 +200,6 @@ Na pilha, os elementos são empilhados verticalmente e **apenas o topo pode ser 
 Qual operação adiciona um elemento no topo da pilha?
 
 A) **push**
-B) pop
-C) peek
-D) remove
 
 ✅ **Resposta correta: A**
 
@@ -285,10 +212,7 @@ A operação **push** insere um novo elemento no topo da pilha.
 
 Qual operação remove o elemento do topo?
 
-A) push
 B) **pop**
-C) peek
-D) add
 
 ✅ **Resposta correta: B**
 
@@ -317,10 +241,9 @@ Pilhas podem ser implementadas usando **arrays, vetores ou listas encadeadas**.
 
 Qual é a complexidade da operação `push` em uma pilha?
 
-A) O(n)
-B) O(log n)
+
 C) **O(1)**
-D) O(n²)
+
 
 ✅ **Resposta correta: C**
 
@@ -333,10 +256,7 @@ A operação `push` tem **complexidade constante**, pois apenas adiciona o eleme
 
 Qual aplicação clássica utiliza pilhas?
 
-A) Busca em largura
 B) **Avaliação de expressões matemáticas**
-C) Banco de dados
-D) Redes neurais
 
 ✅ **Resposta correta: B**
 
@@ -349,10 +269,7 @@ Pilhas são muito usadas para **avaliar expressões matemáticas e converter not
 
 Qual estrutura utiliza pilha para controlar chamadas recursivas?
 
-A) Heap
 B) **Call Stack**
-C) Queue
-D) Tree
 
 ✅ **Resposta correta: B**
 
@@ -365,28 +282,10 @@ A **Call Stack** registra todas as chamadas de métodos durante a execução do 
 
 Qual código cria corretamente uma pilha em Java?
 
-A)
-
-```java
-Stack pilha = new Stack();
-```
-
 B)
 
 ```java
 Stack<Integer> pilha = new Stack<>();
-```
-
-C)
-
-```java
-Pilha pilha = new Pilha();
-```
-
-D)
-
-```java
-Stack pilha = Stack();
 ```
 
 ✅ **Resposta correta: B**
