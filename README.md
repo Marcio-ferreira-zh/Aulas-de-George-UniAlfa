@@ -14,5 +14,3 @@
   <img src="https://cdn.simpleicons.org/git/FFD700" height="40"/>
 </p>
 
-<!-- teste -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Zahard&show_icons=true&theme=dark"/> </p>
