@@ -16,4 +16,4 @@
 </p>
 
 <!-- teste -->
-<p align="center"> <img src="https://img.shields.io/badge/Jedi%20Path-Discipline-FFD700?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/Sith%20Path-Power-FF0000?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/Training-Active-000000?style=for-the-badge&logoColor=FFD700"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Zahard&show_icons=true&theme=dark"/> </p>
