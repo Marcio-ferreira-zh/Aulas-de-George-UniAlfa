@@ -4,7 +4,7 @@
 <!--Tema:StarsWars-->
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In%20Progress-black?style=for-the-badge&logo=starwars&logoColor=yellow&color=000000"/>
-  <img src="https://img.shields.io/badge/mario-Learning-yellow?style=for-the-badge&color=FFD700&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Destination-Learning-yellow?style=for-the-badge&color=FFD700&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Focus-Logic-black?style=for-the-badge&color=000000&labelColor=FFD700"/>
   <img src="https://img.shields.io/badge/Power-Level%20%3E%209000-yellow?style=for-the-badge&color=FFD700&labelColor=000000"/>
 </p>
