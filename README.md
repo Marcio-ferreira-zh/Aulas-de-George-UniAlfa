@@ -11,10 +11,9 @@
 
 <!--icons-->
 <p align="center">
-  <img src="https://img.shields.io/badge/Jedi_Mode-Active-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
-  <img src="https://img.shields.io/badge/Training-Logic-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Mission-In_Progress-000000?style=for-the-badge&logo=git&logoColor=FFD700"/>
+  <img src="https://cdn.simpleicons.org/github/FFD700" height="40"/>
+  <img src="https://cdn.simpleicons.org/git/FFD700" height="40"/>
+  <img src="https://cdn.simpleicons.org/vscode/FFD700" height="40"/>
 </p>
-
 
 
