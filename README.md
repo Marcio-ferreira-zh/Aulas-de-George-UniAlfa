@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://cdn.simpleicons.org/github/FFD700" height="40"/>
   <img src="https://cdn.simpleicons.org/git/FFD700" height="40"/>
-  <img src="https://cdn.simpleicons.org/vscode/FFD700" height="40"/>
 </p>
 
-
+<!-- teste -->
+<p align="center"> <img src="https://media.giphy.com/media/l1KtXmfi3EnjM5zpK/giphy.gif" width="400"/> </p> <p align="center"> ⚔️ Escolha seu caminho: <b>Lado Jedi</b> ou <b>Lado Sith</b> ⚔️ </p>****
